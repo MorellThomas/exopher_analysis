@@ -1,5 +1,8 @@
 # Automatic analysis of *C. elegans* videos
 
-#### Don't worry I will put it here before I hand it to Elke.
-Still need to clean it up..
-# CLEAN IT UP!!!1!11!!!1
+#### How to
+1. Provide the file directory in the `if __name__ == "__main__"` block
+2. Enter the sample names for all **.lif** files in that folder in the `conditions` variable
+3. Run the script
+
+#### To adjust the analysis procedure and/or extend it, change the source code in `expher_analysis.py`
