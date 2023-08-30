@@ -5,4 +5,4 @@
 2. Enter the sample names for all **.lif** files in that folder in the `conditions` variable
 3. Run the script
 
-#### To adjust the analysis procedure and/or extend it, change the source code in `expher_analysis.py`
+#### To adjust the analysis procedure and/or extend it, change the source code in `exopher_analysis.py`
